@@ -6,11 +6,10 @@ A simple and user-friendly **Command-Line Expense Tracker** built with **Python*
 * Technologies Used
 * Project Structure
 * Usage
-* Sample Output
 * Data Storage
 * Error Handling
-* Future Enhancements
 * Learning Outcomes
+* Future Enhancements
 * Author
 ## Overview
 Managing personal expenses is an important habit. This project demonstrates how to build a simple expense management system using Python while practicing:
